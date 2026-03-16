@@ -1,0 +1,2 @@
+# sanga
+atm machine
